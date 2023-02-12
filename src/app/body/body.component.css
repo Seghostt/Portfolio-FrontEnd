@@ -49,14 +49,14 @@ lobinbut
     color:gray;
   }
   
-  #textMod{
+  #textMod1{
     background: none;
     background-color: transparent;
     border: none;
     outline: none;
   }
 
-  #textMod:focus{
+  #textMod1:focus{
     border:solid 2px orange;
     
   }
@@ -75,7 +75,7 @@ lobinbut
 
   #logOutBut{
     position: relative;
-    bottom: 75px;
+    /*bottom: 75px;*/
     margin-left: 300px;
     size: 500px;
   }
